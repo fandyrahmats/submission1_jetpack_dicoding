@@ -1,0 +1,2 @@
+rootProject.name = "Movie Submission Android Jetpack - Dicoding"
+include ':app'
